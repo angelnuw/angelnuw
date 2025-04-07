@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!--#1-->
+<header>
+    <img src="UT Logo.png" alt="UT Logo" class="logo">
+    <h1>Angel Nuw</h1>
+</header>
+
+<!--#2-->
+<nav>
+    <a href="index.html">Home</a> |
+    <a href="course.html">Course</a> |
+    <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+    <!--#3-->
+    <article>
+        <h2>About Me</h2>
+        <p>Hi my name is Angel. I am from California, but I recently moved to Knoxville, TN.
+        I currently go to the University of Tennessee, where I am studying to get my Bachelors
+        degree in Information Security and Cybersecurity. After I graduate I would love to pursue
+        my Cybersecurity career in military aircraft and specializing in creating a more secure
+        system for the military and their fighter jets.</p>
+
+        <p>My hobbies include photography, and travel. In y spare time, and whenever I can, I like
+        to travel and take as many videos and pictures as I can. In my off time as well, I like to
+        run and go to the gym. I hope one day I can run a marathon.</p>
+    </article>
+</main>
+
+<!--#4-->
+<footer>
+    <p>&copy; 2025 Angel Nuw</p>
+    <p><a href="mailto:acharl16@vols.utk.edu">acharl16@vols.utk.edu</a></p>
+</footer>
+</body>
+</html>
