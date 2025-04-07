@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact</title>
+</head>
+<body>
+<!--#1-->
+<header>
+    <img src="UT Logo.png" alt="UT Logo" height="185" width="273">
+    <h1>Angel Nuw</h1>
+</header>
+
+<!--#2-->
+<nav>
+    <a href="index.html">Home</a> |
+    <a href="course.html">Course</a> |
+    <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+    <!--#5-->
+    <form>
+        <label>Your name: <input type="text" name="name" required></label>
+        <label>Your email: <input type="email" name="email" required></label>
+        <label>Message: <textarea name="message" rows="5" required></textarea></label>
+    </form>
+</main>
+
+<footer>
+    <p>&copy; 2025 Angel Nuw</p>
+    <p><a href="mailto:acharl16@vols.utk.edu">acharl16@vols.utk.edu</a></p>
+</footer>
+
+</body>
+</html>
