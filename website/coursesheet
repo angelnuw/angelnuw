@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Course</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!--#1-->
+<header>
+    <img src="UT Logo.png" alt="UT Logo" class="logo">
+    <h1>Angel Nuw</h1>
+</header>
+
+<!--#2-->
+<nav>
+    <a href="index.html">Home</a> |
+    <a href="course.html">Course</a> |
+    <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+    <!--#5-->
+    <h2>My courses</h2>
+    <table border="1" style="margin: 5px;">
+        <tr>
+            <th>Course</th>
+            <th>Course Number</th>
+            <th>Course Title</th>
+            <th>Course Hours</th>
+            <th>Status</th>
+        </tr>
+        <tr>
+            <td>INSC</td>
+            <td>210</td>
+            <td>Foundations of Information Technology</td>
+            <td>3</td>
+            <td>Enrolled</td>
+        </tr>
+        <tr>
+            <td>INSC</td>
+            <td>260</td>
+            <td>Programming for Information Applications</td>
+            <td>3</td>
+            <td>Enrolled</td>
+        </tr>
+        <tr>
+            <td>INSC</td>
+            <td>312</td>
+            <td>Fundamentals of Information in Cybersecurity</td>
+            <td>3</td>
+            <td>Enrolled</td>
+        </tr>
+    </table>
+</main>
+
+<!-- #4 Footer -->
+<footer>
+    <p>&copy; 2025 Angel Nuw</p>
+    <p><a href="mailto:acharl16@vols.utk.edu">acharl16@vols.utk.edu</a></p>
+</footer>
+
+</body>
+</html>
